@@ -9,9 +9,11 @@ OpenCV图像处理(Python)
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+0.  Mac
+1.  python3 -m venv venv
+2.  venv/bin/activate
+3.  python -m pip install --upgrade pip
+4.  pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 #### 使用说明
 
